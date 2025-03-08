@@ -1,4 +1,4 @@
-"""
+source venv/bin/activate"""
 This module automates model training.
 """
 
